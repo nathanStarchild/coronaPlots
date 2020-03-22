@@ -1,2 +1,4 @@
 env/*
 app.db
+.vscode/
+__pycache__/
